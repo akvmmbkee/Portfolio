@@ -1,0 +1,28 @@
+.achieve{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+
+.codsoft{
+    margin-left: 100px;
+}
+
+.octanet{
+    margin-left: 100px;
+}
+
+
+.headers{
+    margin-left: 650px;
+}
+
+
+header{
+    background-color: pink;
+}
+
+
+body{
+    background-color: antiquewhite;
+}

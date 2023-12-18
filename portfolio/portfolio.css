@@ -1,0 +1,268 @@
+header{
+    background-color: pink;
+    outline-color: aqua;
+}
+
+.header{
+    display: flex;
+}
+
+
+.links{
+    margin-left: 500px;
+    outline: none;
+    margin-top: 30px;
+}
+
+.rest{
+    margin-left: 50px;
+    outline: none;
+}
+
+
+.section{
+    display: flex;
+    height: 600px;
+    
+}
+
+.rightsection{
+    margin-left: 300px;
+    
+}
+
+
+.anurapic{
+    position: relative;
+    margin-top: 80px;
+    
+   
+    
+}
+
+.leftsection{
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+
+.uper{
+    margin-top: 50px;
+}
+
+
+.buttons{
+    margin-top: 30px;
+    justify-content: space-between;
+    
+}
+
+.contactme{
+    background-color: blueviolet;
+    padding: 3px 4px 5px 6px;
+    margin-left: 20px;
+    color: white;
+    font-size: larger;
+
+
+}
+
+.contactus{
+    background-color: blueviolet;
+    padding: 3px 4px 5px 6px;
+    margin-left: 20px;
+    color: white;
+    font-size: larger;
+
+}
+
+
+.section{
+    background-color: aliceblue;
+}
+
+
+.secondory{
+    background-color: aliceblue;
+}
+
+
+.second{
+    display: flex;
+    margin-left: 200px;
+    
+    
+}
+
+
+
+.secondleft{
+    margin-top: 100px;
+}
+
+
+.secondright{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.htmlhr{
+    margin-left: 0px;
+}
+
+
+
+.thirdcore{
+
+    background-color: aliceblue;
+}
+
+.third{
+    
+    display: flex;
+    
+    
+}
+
+.thirdleft{
+    margin-left: 100px;
+    display: flex;
+    margin-top: 80px;
+    
+}
+
+.port{
+    margin-left: 100px;
+    font-size: 45px;
+}
+
+
+.stage{
+    margin-top: 50px;
+}
+
+
+.thirdright{
+    margin-top: 160px;
+    margin-left: 500px;
+    
+}
+
+
+/* achievements */
+
+
+
+.achieve{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+
+.codsoft{
+    margin-left: 100px;
+}
+
+.octanet{
+    margin-left: 100px;
+}
+
+
+.headers{
+    margin-left: 650px;
+    font-size: 40px;
+}
+
+
+header{
+    background-color: pink;
+}
+
+
+
+
+
+
+.upper{
+    outline: 5px 8px 10px 12px;
+}
+
+
+.four{
+    background-color: aliceblue;
+}
+
+
+
+.five{
+    display: flex;
+    
+    margin-left: 50px;
+}
+
+
+.fiveright{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+.fiveleft{
+    margin-top: 100px;
+}
+
+
+.vermaa{
+    position: relative;
+    bottom: 27%;
+    left: 50%;
+}
+
+.lastsection{
+    background-color: aliceblue;
+    height: 600px;
+}
+
+
+.locate{
+    display: flex;
+}
+
+.locations{
+    margin-top: 20px;
+}
+
+.lucknow{
+    margin-left: 20px;
+}
+
+
+.download{
+
+    background-color: blueviolet;
+    margin-top: 20px;
+    color: white;
+}
+
+.download:hover{
+    background-color: aqua;
+}
+
+
+
+.footer{
+    height: 70px;
+    width: 100%;
+    background-color: black;
+}
+
+
+.copyright{
+    display: flex;
+    color: white;
+    margin-left: 15px;
+}
+
+
+.lastfooter{
+    margin-left: 900px;
+}

@@ -1,0 +1,33 @@
+.projects{
+    display: flex;
+
+    margin-top: 150px;
+    margin-left: 100px;
+    
+}
+
+.shoplane{
+    margin-left: 100px;
+}
+
+.calculater{
+    margin-left: 100px;
+}
+
+header{
+    
+    background-color: pink;
+}
+
+.projecthead{
+    margin-left: 650px;
+}
+
+
+body{
+    background-color: antiquewhite;
+}
+
+.a{
+    outline: none;
+}
